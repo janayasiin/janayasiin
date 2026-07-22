@@ -6,7 +6,7 @@
 🌱 Passionate about building scalable web applications and learning software engineering best practices.
 </p>
 
----
+
 
 <h2 align="center">🛠️ Languages & Tools</h2>
 
@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
 
 </p>
----
+
 
 <h2 align="center">📫 Connect With Me</h2>
 
@@ -61,4 +61,4 @@
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="40"/></a>
 
 </p>
----
+
