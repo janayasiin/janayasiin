@@ -30,8 +30,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" width="50"/>
-&nbsp;
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50"/>&nbsp;
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
 &nbsp;
