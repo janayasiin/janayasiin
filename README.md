@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Computer Systems Engineering Student <br>
-💻 Backend Developer | .NET Enthusiast <br>
+💻 Backend Developer | .NET  <br>
 🌱 Passionate about building scalable web applications and learning software engineering best practices.
 </p>
 
