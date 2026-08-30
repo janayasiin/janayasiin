@@ -9,8 +9,8 @@
 - 🌱 Passionate about building scalable web applications and learning software engineering best practices.
 
 </td>
-<td width="40%">
-<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="100%"/>
+<td width="40%" align="center" valign="middle">
+<img src="https://stories.freepiklabs.com/storage/14800/Programmer_Mesa-de-trabajo-1.svg" width="260"/>
 </td>
 </tr>
 </table>
@@ -68,3 +68,5 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8B4B8&height=100&section=footer"/>
+
+<p align="center"><sub>Illustration by <a href="https://storyset.com/technology">Storyset</a></sub></p>
