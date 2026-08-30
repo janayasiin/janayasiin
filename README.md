@@ -10,7 +10,7 @@
 
 </td>
 <td width="40%">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="100%"/>
 </td>
 </tr>
 </table>
