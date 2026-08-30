@@ -9,8 +9,8 @@
 - 🌱 Passionate about building scalable web applications and learning software engineering best practices.
 
 </td>
-<td width="40%" align="center" valign="middle">
-<img src="https://stories.freepiklabs.com/storage/14800/Programmer_Mesa-de-trabajo-1.svg" width="260"/>
+<td width="40%" align="center" valign="middle" bgcolor="#2b1c3d">
+<img src="https://stories.freepiklabs.com/storage/33587/Code-typing-rafiki_Artboard-1.svg" width="260"/>
 </td>
 </tr>
 </table>
