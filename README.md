@@ -10,7 +10,7 @@
 
 </td>
 <td width="40%" align="center" valign="middle" bgcolor="#2b1c3d">
-<img src="https://stories.freepiklabs.com/storage/33587/Code-typing-rafiki_Artboard-1.svg" width="260"/>
+<img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="260"/>
 </td>
 </tr>
 </table>
@@ -68,5 +68,3 @@
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E8B4B8&height=100&section=footer"/>
-
-<p align="center"><sub>Illustration by <a href="https://storyset.com/technology">Storyset</a></sub></p>
