@@ -1,39 +1,24 @@
 
 <div align="center">
 
-<h1>Jana Yassin 𐙚</h1>
+<h2>Hi 👋, I'm Jana Yassin 𐙚</h2>
 
-<p><b>Computer Systems Engineering | .NET Backend Developer</b></p>
-
-<a href="https://www.linkedin.com/in/jana-m-yassin/">
-<img src="https://img.shields.io/badge/LinkedIn-6D527D?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:janayasiin@gmail.com">
-<img src="https://img.shields.io/badge/Email-6D527D?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=876A99&center=true&vCenter=true&width=430&lines=Code.+Create.+Keep+Growing." />
-
+<b>Backend Developer | .NET</b>
 <br>
+<sub>Computer Systems Engineering Student</sub>
 
-<h3>୨୧ Tech Stack</h3>
+<p>
+<a href="https://www.linkedin.com/in/jana-m-yassin/"><img src="https://img.shields.io/badge/LinkedIn-956C80?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:janayasiin@gmail.com"><img src="https://img.shields.io/badge/Email-956C80?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/janayasiin"><img src="https://img.shields.io/badge/GitHub-956C80?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,python,html,css,bootstrap&theme=light&perline=8"/>
+<h4>୨୧ Tech Stack</h4>
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,python,html,css,bootstrap,git,github,visualstudio,vscode,postman&theme=light&perline=13" height="34"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=light&perline=8"/>
+<h4>୨୧ GitHub Activity</h4>
 
-<br><br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42"/>
-
-<br>
-
-<h3>୨୧ GitHub Activity</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=janayasiin&show_icons=true&hide_border=true&bg_color=00000000&title_color=78538F&text_color=555555&icon_color=78538F&hide_rank=true" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=janayasiin&show_icons=true&hide_border=false&border_color=E5D5DC&bg_color=FFFFFF&title_color=956C80&text_color=48404A&icon_color=B58A9E&hide_rank=true" width="390"/>
 
 </div>
